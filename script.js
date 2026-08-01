@@ -1,4 +1,9 @@
 const deck = document.querySelector('.deck');
+
+// Arrange the proposal as one continuous story: research → differentiator → customer → solution.
+['.cover', '.brief-map', '.market', '.reference-analysis', '.big-idea', '.persona', '.journey', '.concept', '.scope', '.practical', '.care', '.investment']
+  .forEach((selector) => deck.appendChild(document.querySelector(selector)));
+
 const pages = [...document.querySelectorAll('.page')];
 const prev = document.querySelector('.prev');
 const next = document.querySelector('.next');
