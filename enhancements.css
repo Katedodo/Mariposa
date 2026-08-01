@@ -82,3 +82,7 @@
 .receipt-care{border-top:1px dashed var(--ink);margin-top:10px;padding-top:10px}
 .receipt-care strong{display:block;font:19px var(--display);color:var(--wine);margin:3px 0}
 .receipt-care p{font-size:7px;margin:0}
+.investment .final-contact{max-width:345px;margin:18px auto 16px;padding:16px;background:rgba(245,240,229,.08);border:1px solid rgba(245,240,229,.2)}
+.investment .final-contact p{margin:0 0 12px;color:var(--lime);font:24px/1.1 var(--display)}
+.investment .final-contact a{min-height:58px;align-items:center;padding:17px 20px;font-size:10px;font-weight:600;letter-spacing:.1em;box-shadow:5px 6px 0 var(--pink)}
+.investment .final-contact a b{font-size:20px;line-height:1}
