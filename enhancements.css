@@ -1,0 +1,10 @@
+.new-business{padding:12px 14px;margin:-10px 0 16px;background:var(--lime);border-left:3px solid var(--wine)}
+.new-business span{font-size:6px;letter-spacing:.14em;color:var(--wine)}
+.new-business p{font-size:8px;line-height:1.5;margin:4px 0}
+.persona-insight{font:17px/1.2 var(--display);color:var(--wine);margin:15px 0 0;padding-top:12px;border-top:1px solid var(--line)}
+.receipt-value{padding:10px 0;border-top:1px dashed var(--ink)}
+.receipt-value span,.receipt-care span{font-size:6px;letter-spacing:.13em;color:var(--wine)}
+.receipt-value p{font-size:7px;line-height:1.45;margin:4px 0}
+.receipt-care{border-top:1px dashed var(--ink);margin-top:10px;padding-top:10px}
+.receipt-care strong{display:block;font:19px var(--display);color:var(--wine);margin:3px 0}
+.receipt-care p{font-size:7px;margin:0}
